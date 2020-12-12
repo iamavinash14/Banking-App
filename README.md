@@ -1,6 +1,6 @@
-## Connect to Postgresql Database
+## Connect to SQL Database
 
-Add Postgresql database connection details in `server/db/connect.js` file
+Add sql database connection details in `server/db/connect.js` file
 
 ## Add database tables
 
